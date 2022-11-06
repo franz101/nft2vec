@@ -2,7 +2,6 @@
     "embeddings": [
       {
         "tensorName": "Lens Embeddings",
-        
         "tensorPath": "https://raw.githubusercontent.com/franz101/nft2vec/main/data/lens/lens_embeddings.tsv"
       }
     ]
