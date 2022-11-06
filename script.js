@@ -79,10 +79,10 @@ const App = () => (React.createElement(Layout, { className: "layout" },
                 React.createElement(Col, { span: 24 }, "  "),
                 React.createElement(Col, { span: 12 },
                     "  ",
-                    React.createElement(Button, { style: { width: "100%" } }, "Get code")),
+                    React.createElement(Button, { style: { width: "100%" }, href: "https://github.com/franz101/nft2vec/blob/main/dataproviders/dune-python/main.py" }, "Get code")),
                 React.createElement(Col, { span: 12 },
                     "  ",
-                    React.createElement(Button, { style: { width: "100%" }, type: "primary" }, "Visualize"))))),
+                    React.createElement(Button, { href: "https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/franz101/nft2vec/main/data/lens/v1.json", style: { width: "100%" }, type: "primary" }, "Visualize"))))),
     React.createElement(Footer, { style: {
             textAlign: 'center',
         } }, "2022 ETHSanFrancisco")));
