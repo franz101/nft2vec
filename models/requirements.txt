@@ -1,0 +1,5 @@
+torch
+'polars[all]'
+torch-scatter #see installation in their docs
+torch-cluster #see installation in their docs
+torch_geometric #see installation in their docs
