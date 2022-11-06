@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "ENS Names Embeddings",
+        "metadataPath": "https://raw.githubusercontent.com/franz101/nft2vec/main/data/ens/names.tsv",
+        "tensorPath": "https://raw.githubusercontent.com/franz101/nft2vec/main/data/ens/embeddings.tsv",
+        "tensorShape": [
+          1000000,
+          3
+        ]
+      }
+    ]
+  }
